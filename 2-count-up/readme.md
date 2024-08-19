@@ -19,7 +19,7 @@
 
 - まずは、JS のみで実装。
 - 続いて、React で実装してみてください。
-  - React で実装する場合は、react-quickstart.html をベースとして使ってみてください。
+  - React で実装する場合は、[react-quickstart.html](./react-quickstart.html) をベースとして使ってみてください。
 
 ### Pull Request の粒度
 
